@@ -38,9 +38,6 @@
   <a href="https://blender.org/" target="_blank">
     <img height="64" width="64" src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" />
   </a>
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img height="64" width="64" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
-  </a>
 </p>
 
 ## 📊 GitHub statistics
