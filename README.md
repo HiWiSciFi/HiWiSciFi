@@ -4,7 +4,7 @@
 ## 💬 Languages and 🔨 Tools
 <p align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img height="64" width="64" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
+    <img height="64" width="64" src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" />
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/core/tutorials/" target="_blank">
     <img height="64" width="64" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" />
