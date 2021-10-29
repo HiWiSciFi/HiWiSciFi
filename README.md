@@ -30,12 +30,6 @@
   <a href="https://java.com/" target="_blank">
     <img height="64" width="64" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" />
   </a>
-  <a href="https://unity.com/" target="_blank">
-    <img height="64" width="64" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" />
-  </a>
-  <a href="https://blender.org/" target="_blank">
-    <img height="64" width="64" src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" />
-  </a>
 </p>
 
 ## 📊 GitHub statistics
