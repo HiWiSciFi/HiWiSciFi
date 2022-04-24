@@ -15,12 +15,6 @@
   <a href="https://www.opengl.org/" target="_blank">
     <img height="64" width="153" src="https://opengl.org/img/OpenGL_100px_June16.png" />
   </a>
-  <a href="https://www.w3schools.com/html/" target="_blank">
-    <img height="64" width="64" src="https://cdn.worldvectorlogo.com/logos/html5.svg" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img height="64" width="64" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
-  </a>
   <a href="https://www.w3schools.com/js/" target="_blank">
     <img height="64" width="64" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
   </a>
