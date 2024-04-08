@@ -33,18 +33,13 @@
 </p>
 
 ## 📊 GitHub statistics
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HiWiSciFi&show_icons=true&theme=gruvbox&include_all_commits=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiWiSciFi&langs_count=8&theme=gruvbox" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HiWiSciFi&theme=gruvbox" />
-  </a>
-</p>
+<div align="center">
+  
+  | <img align="left" src="https://github-readme-stats.vercel.app/api?username=HiWiSciFi&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="HiWiSciFi's github stats" /> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiWiSciFi&layout=compact&theme=tokyonight&hide_border=true" /> |
+| - | - |
+
+</div>
+
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HiWiSciFi&theme=tokyonight&layout=compact" />
+</div>
